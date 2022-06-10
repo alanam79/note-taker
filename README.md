@@ -3,7 +3,7 @@
 
   #### GitHub Username: [alanam79](https://github.com/alanam79)
 
-  #### GitHub Email Address: alanarmckeel@gmail.com
+  #### Email Address: alanarmckeel@gmail.com
 
   # NoteTaker
 
