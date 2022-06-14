@@ -22,7 +22,7 @@
   * [Special Thanks](#special-thanks)
 
   ## Installation
-  npm install
+  
 
   ## Usage
   This is a quick and easy app to use. 
@@ -31,12 +31,20 @@
   N/A
 
   # Website
-  https://github.com/alanam79/note-taker
+  * https://mckeel-notetaker.herokuapp.com/
+  * https://github.com/alanam79/note-taker
 
   ## Testing
   N/A
 
   ## Screenshots
+  
+  [![1.jpg](https://i.postimg.cc/rmgfYdjx/1.jpg)](https://postimg.cc/phhQmLgL)
+  [![2.jpg](https://i.postimg.cc/nzVk7Fxz/2.jpg)](https://postimg.cc/xk7MVScD)
+  [![3.jpg](https://i.postimg.cc/fLHvfGWv/3.jpg)](https://postimg.cc/k6b8nhbV)
+  [![4.jpg](https://i.postimg.cc/8cjmKZjg/4.jpg)](https://postimg.cc/V0Pt5BqK)
+  [![4.jpg](https://i.postimg.cc/fLbcy87S/4.jpg)](https://postimg.cc/bGKDFHBq)
+  [![5.jpg](https://i.postimg.cc/RF8HF4V2/5.jpg)](https://postimg.cc/9RdMg39B)
 
   ## Questions
   For additional questions and/or information, please go to the creator's Github at: github.com/alanam79, or email alanarmckeel@gmail.com.
